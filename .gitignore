@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/.settings
+/lib
+/target
+/target-eclipse
+plugin.xml
+*.iml
+*.log
+*.sha1
+*.zip
+.idea
