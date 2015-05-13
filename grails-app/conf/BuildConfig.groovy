@@ -14,7 +14,7 @@ grails.project.dependency.resolution = {
         grailsPlugins()
         grailsHome()
         mavenLocal()
-        mavenRepo "https://www.owfgoss.org/nexus/content/groups/public"
+        mavenRepo 'http://repository.opencastproject.org/nexus/content/repositories/public'
         grailsCentral()
         mavenCentral()
     }
