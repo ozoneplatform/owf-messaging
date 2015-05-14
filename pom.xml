@@ -9,6 +9,9 @@
   <description>\
         Common messaging components.
     </description>
+
+  <url>https://github.com/ozoneplatform/owf-messaging</url>
+
   <developers>
     <developer>
       <name>OZONE Team</name>
