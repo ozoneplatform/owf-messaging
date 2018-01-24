@@ -1,6 +1,6 @@
 package org.ozoneplatform.messaging.service.impl
 
-import org.codehaus.groovy.grails.commons.GrailsApplication
+import grails.core.GrailsApplication
 import org.jivesoftware.smack.ConnectionConfiguration
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Component
